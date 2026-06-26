@@ -2308,5 +2308,695 @@
     "chapter": 32,
     "front": "What is the approach to introducing allergenic solids in infants at high risk for allergy?",
     "back": "NIAID 2017 guidelines: do NOT delay introduction of allergenic foods beyond 4\u20136 months. For high-risk infants (severe eczema or egg allergy): evaluate with SPT/IgE before peanut introduction. SPT 0\u20132 mm: introduce peanut at home (3 teaspoons peanut butter/week). SPT 3\u20137 mm: supervised OFC in clinic. SPT \u22658 mm: likely allergic, refer to allergist. This is the most impactful practice change in pediatric allergy in the past decade."
+  },
+  {
+    "chapter": 6,
+    "front": "What eosinophil count on esophageal biopsy defines EoE?",
+    "back": "\u226515 eosinophils per high-power field (eos/hpf) on at least one esophageal biopsy specimen, after an adequate PPI trial.",
+    "id": 386
+  },
+  {
+    "chapter": 6,
+    "front": "What is the 6-food elimination diet for EoE?",
+    "back": "Elimination of the 6 most common food allergens: milk, wheat, eggs, soy, tree nuts/peanuts, and seafood/fish. Foods are reintroduced one at a time with repeat endoscopy after each reintroduction to identify the trigger.",
+    "id": 387
+  },
+  {
+    "chapter": 6,
+    "front": "What endoscopic features are characteristic of EoE?",
+    "back": "Esophageal rings (trachealization), longitudinal furrows, white exudates/plaques, mucosal pallor, decreased vascular markings, and mucosal fragility (cr\u00eape paper esophagus). Strictures in chronic disease.",
+    "id": 388
+  },
+  {
+    "chapter": 6,
+    "front": "What is the first-line pharmacologic therapy for EoE?",
+    "back": "Swallowed topical corticosteroids: fluticasone MDI (swallowed, not inhaled) or oral viscous budesonide (OVB). PPIs are also first-line \u2014 PPI-responsive esophageal eosinophilia is now considered within the EoE spectrum per AGREE guidelines.",
+    "id": 389
+  },
+  {
+    "chapter": 6,
+    "front": "What is the EREFS scoring system for EoE?",
+    "back": "Endoscopic Reference Score: grades Edema, Rings, Exudates, Furrows, and Stricture (0\u20138 total). Used to assess endoscopic severity and treatment response in EoE.",
+    "id": 390
+  },
+  {
+    "chapter": 6,
+    "front": "What distinguishes EoE from GERD histologically?",
+    "back": "EoE: \u226515 eos/hpf distributed throughout esophagus, with eosinophilic microabscesses, surface eosinophil layering, basal zone hyperplasia, and lamina propria fibrosis. GERD eosinophilia: fewer eosinophils, concentrated distally (Z-line region), responsive to PPI.",
+    "id": 391
+  },
+  {
+    "chapter": 6,
+    "front": "What genes are most strongly associated with EoE susceptibility?",
+    "back": "TSLP (thymic stromal lymphopoietin) on chromosome 5q22 and CAPN14 (calpain-14) on chromosome 2p23. EoE is driven by a Th2-mediated immune response with IL-5, IL-13, and eotaxin-3 playing key roles.",
+    "id": 392
+  },
+  {
+    "chapter": 6,
+    "front": "How does EoE presentation differ by age group?",
+    "back": "Infants/toddlers: feeding refusal, vomiting, failure to thrive. School-age: abdominal pain, vomiting. Adolescents/adults: dysphagia for solids, food impaction (most common presenting symptom in teens \u2014 emergency presentation requiring urgent endoscopy).",
+    "id": 393
+  },
+  {
+    "chapter": 6,
+    "front": "What is eosinophilic gastroenteritis (EGE)?",
+    "back": "Eosinophilic infiltration of the stomach and/or small intestine (\u226520 eos/hpf), causing nausea, vomiting, abdominal pain, diarrhea, malabsorption, or protein-losing enteropathy. Symptom pattern depends on depth: mucosal (most common), muscular (obstruction), or serosal (ascites).",
+    "id": 394
+  },
+  {
+    "chapter": 6,
+    "front": "What is PPI-responsive esophageal eosinophilia and its current classification?",
+    "back": "\u226515 eos/hpf on esophageal biopsy that resolves or markedly improves after PPI therapy (8 weeks). Per AGREE 2018 consensus, this is now considered within the EoE disease spectrum \u2014 PPI response does not exclude EoE diagnosis. PPIs reduce epithelial permeability and have anti-inflammatory effects independent of acid suppression.",
+    "id": 395
+  },
+  {
+    "chapter": 7,
+    "front": "What is the recommended first-line H. pylori eradication regimen in children?",
+    "back": "Clarithromycin-based triple therapy (PPI + amoxicillin + clarithromycin) for 14 days in regions with <15% clarithromycin resistance. Bismuth quadruple therapy (PPI + bismuth + metronidazole + tetracycline) preferred in high-resistance areas. Always guided by susceptibility testing when possible.",
+    "id": 396
+  },
+  {
+    "chapter": 7,
+    "front": "What is the CLO (Campylobacter-like organism) rapid urease test?",
+    "back": "Performed on gastric biopsy: H. pylori urease converts urea to ammonia, raising pH and causing a color indicator change. High specificity (>95%) but false-negatives occur with PPI use within 2 weeks, recent antibiotics, or gastric atrophy. Should be stopped PPIs \u22652 weeks before testing.",
+    "id": 397
+  },
+  {
+    "chapter": 7,
+    "front": "What are the NASPGHAN indications for H. pylori testing in children?",
+    "back": "Test only when treatment will be offered: (1) endoscopically confirmed peptic ulcer disease, (2) first-degree relative with gastric cancer. Screen-and-treat strategy for functional dyspepsia is NOT recommended in children. Empiric H. pylori treatment without testing is not appropriate.",
+    "id": 398
+  },
+  {
+    "chapter": 7,
+    "front": "What distinguishes primary from secondary peptic ulcer disease in children?",
+    "back": "Primary PUD: H. pylori-associated, older children, antral gastritis pattern, familial clustering, responds to eradication therapy. Secondary PUD: any age, caused by NSAIDs, corticosteroids, critical illness (stress ulcers), hypersecretory states (Zollinger-Ellison syndrome), or systemic illness (vasculitis, Crohn's).",
+    "id": 399
+  },
+  {
+    "chapter": 7,
+    "front": "What is the stool antigen test performance for H. pylori in children?",
+    "back": "Sensitivity 94%, specificity 97% using monoclonal antibody-based EIA. Preferred non-invasive test for both diagnosis (when endoscopy not indicated) and test-of-cure. Perform \u22654 weeks after completing eradication therapy and \u22652 weeks off PPIs to avoid false-negatives.",
+    "id": 400
+  },
+  {
+    "chapter": 7,
+    "front": "What is Zollinger-Ellison syndrome and its pediatric features?",
+    "back": "Gastrin-secreting tumor (gastrinoma), usually in the duodenum or pancreas. Causes refractory peptic ulcer disease with massive acid hypersecretion. Diagnosis: fasting serum gastrin >1000 pg/mL or secretin stimulation test (gastrin rise >200 pg/mL). May be sporadic or MEN1-associated. Treat: high-dose PPI; surgical resection of localized tumors.",
+    "id": 401
+  },
+  {
+    "chapter": 8,
+    "front": "What is the gold standard test for diagnosing gastroparesis?",
+    "back": "Gastric emptying scintigraphy (GES): standardized 4-hour study using a radiolabeled solid meal (Tc-99m sulfur colloid scrambled egg). Gastroparesis defined as >10% gastric retention at 4 hours. Prokinetics and opioids must be held before the study.",
+    "id": 402
+  },
+  {
+    "chapter": 8,
+    "front": "What are the most common causes of gastroparesis in children?",
+    "back": "Idiopathic (most common), post-viral/post-infectious (often following viral gastroenteritis \u2014 usually self-limiting), diabetic (autonomic neuropathy), post-surgical (vagal nerve injury after fundoplication or esophageal surgery), and connective tissue disorders (Ehlers-Danlos, systemic sclerosis).",
+    "id": 403
+  },
+  {
+    "chapter": 8,
+    "front": "What prokinetic agents are used for pediatric gastroparesis?",
+    "back": "Metoclopramide (dopamine D2 antagonist, FDA-approved; black-box warning for tardive dyskinesia with prolonged use), erythromycin (motilin agonist, short-term use limited by tachyphylaxis after 4 weeks), domperidone (not FDA-approved; available via IND). Pyridostigmine used in motility disorders with vagal dysfunction.",
+    "id": 404
+  },
+  {
+    "chapter": 8,
+    "front": "What dietary modifications are recommended for gastroparesis?",
+    "back": "Small frequent meals (4\u20136/day), low-fat (fat slows gastric emptying), low-fiber (fiber delays emptying and may bezoar), adequate liquid intake, upright position after meals for 1\u20132 hours. Liquid nutritional supplements often better tolerated (liquid-phase emptying usually preserved in gastroparesis).",
+    "id": 405
+  },
+  {
+    "chapter": 8,
+    "front": "What is gastric electrical stimulation (GES) for refractory gastroparesis?",
+    "back": "Implantable neurostimulator (Enterra device) delivers high-frequency/low-energy electrical pulses to gastric antrum. Reduces nausea and vomiting in refractory gastroparesis (nausea control >objective gastric emptying improvement). FDA humanitarian device exemption for adults; used off-label in pediatric refractory cases.",
+    "id": 406
+  },
+  {
+    "chapter": 8,
+    "front": "What is the wireless motility capsule (SmartPill) in motility testing?",
+    "back": "Ingestible sensor capsule measuring intraluminal pH, pressure, and temperature. Provides simultaneous whole-gut, gastric, small bowel, and colonic transit times. Gastric emptying time >5 hours = gastroparesis. Contraindicated with swallowing disorders, strictures, or pacemakers. FDA-approved for gastroparesis diagnosis.",
+    "id": 407
+  },
+  {
+    "chapter": 9,
+    "front": "What is the VACTERL association and its components?",
+    "back": "Non-random co-occurrence of: Vertebral defects, Anal atresia, Cardiac defects, Tracheo-Esophageal fistula/Esophageal Atresia, Renal anomalies, Limb defects. Cardiac and renal anomalies most common co-occurring features. Requires cardiac echo and renal ultrasound in any child with EA/TEF.",
+    "id": 408
+  },
+  {
+    "chapter": 9,
+    "front": "Why is malrotation with midgut volvulus a neonatal surgical emergency?",
+    "back": "Malrotation: failure of normal 270\u00b0 counterclockwise intestinal rotation. Bowel attached by narrow Ladd's bands and can twist around the SMA (midgut volvulus), causing complete ischemia and necrosis within hours. Presents with bilious vomiting in a neonate \u2014 requires immediate upper GI series and emergency Ladd's procedure.",
+    "id": 409
+  },
+  {
+    "chapter": 9,
+    "front": "How is Hirschsprung disease definitively diagnosed?",
+    "back": "Rectal suction biopsy (gold standard): absence of submucosal and myenteric ganglion cells with hypertrophic nerve trunks on H&E staining, confirmed by increased acetylcholinesterase staining in the lamina propria. Anorectal manometry (absent rectoanal inhibitory reflex/RAIR) is a screening tool but biopsy is required for definitive diagnosis.",
+    "id": 410
+  },
+  {
+    "chapter": 9,
+    "front": "What is the imaging finding in duodenal atresia and its associations?",
+    "back": "'Double bubble sign' on plain abdominal X-ray: two gas shadows (stomach + proximal duodenum), no distal gas. 30% associated with Trisomy 21 (Down syndrome). Also associated with malrotation, annular pancreas, biliary anomalies. Treatment: duodenoduodenostomy.",
+    "id": 411
+  },
+  {
+    "chapter": 10,
+    "front": "What HLA types confer celiac disease susceptibility?",
+    "back": "HLA-DQ2 (DQA1*05/DQB1*02) present in ~90\u201395% of celiac patients. HLA-DQ8 (DQA1*03/DQB1*03:02) in most remaining cases. Negative HLA-DQ2 and HLA-DQ8 essentially excludes celiac disease (very high negative predictive value >99%). Present in ~30% of the general population but only 1\u20133% develop celiac disease.",
+    "id": 412
+  },
+  {
+    "chapter": 10,
+    "front": "What is the Marsh classification of celiac histology?",
+    "back": "Marsh 0: normal mucosa. Marsh 1: increased intraepithelial lymphocytes (IEL >25/100 enterocytes). Marsh 2: + crypt hyperplasia. Marsh 3a: partial villous atrophy. Marsh 3b: subtotal villous atrophy. Marsh 3c: total villous atrophy (flat mucosa). Modern Corazza-Villanacci simplification: Grade A (IEL only) vs. Grade B1/B2 (with atrophy).",
+    "id": 413
+  },
+  {
+    "chapter": 10,
+    "front": "What serology is recommended for celiac disease screening?",
+    "back": "Anti-tissue transglutaminase IgA (tTG-IgA) as first-line test. Always check total serum IgA simultaneously (IgA deficiency in 2\u20133% of celiac patients causes false-negative tTG-IgA). If IgA deficient: use tTG-IgG or deamidated gliadin peptide IgG (DGP-IgG). Anti-endomysial antibody (EMA-IgA) has near-100% specificity but is operator-dependent.",
+    "id": 414
+  },
+  {
+    "chapter": 10,
+    "front": "What is the ESPGHAN no-biopsy pathway for celiac diagnosis?",
+    "back": "ESPGHAN 2020: biopsy can be omitted in symptomatic children if tTG-IgA >10\u00d7 ULN AND EMA-IgA positive on a separate blood draw AND HLA-DQ2/DQ8 positive. Must be symptomatic; not applicable to asymptomatic screening. NASPGHAN has not yet fully adopted this pathway \u2014 biopsy still generally recommended in North America.",
+    "id": 415
+  },
+  {
+    "chapter": 10,
+    "front": "What conditions increase celiac disease risk in children?",
+    "back": "Type 1 diabetes (5\u201310%), Down syndrome (5\u201312%), Turner syndrome, Williams syndrome, selective IgA deficiency (~10%), autoimmune thyroiditis (~5%), first-degree relatives of celiac patients (10\u201315%), and children with unexplained iron-deficiency anemia, short stature, or chronic diarrhea.",
+    "id": 416
+  },
+  {
+    "chapter": 10,
+    "front": "What is non-celiac gluten sensitivity (NCGS)?",
+    "back": "Symptomatic response to gluten in patients without celiac disease (negative serology, normal histology) or wheat allergy. Symptoms: bloating, abdominal pain, diarrhea, fatigue, headache. No reliable biomarker. Evidence suggests some symptoms may be due to FODMAPs (fructans) in wheat rather than gluten itself. No long-term gut damage demonstrated.",
+    "id": 417
+  },
+  {
+    "chapter": 11,
+    "front": "What is the D-xylose absorption test and what does an abnormal result indicate?",
+    "back": "25 g oral D-xylose dose; blood level at 1 hour and 5-hour urine collected. Low level (<20 mg/dL at 1 hour) indicates small intestinal mucosal disease (celiac, Crohn's, tropical sprue). Normal D-xylose with steatorrhea suggests pancreatic exocrine insufficiency rather than mucosal disease.",
+    "id": 418
+  },
+  {
+    "chapter": 11,
+    "front": "What is the 72-hour fecal fat collection and its interpretation?",
+    "back": "Gold standard for fat malabsorption: stool collected over 72 hours on a diet with defined fat intake (100 g fat/day adults; weight-appropriate in children). Fat malabsorption: >7 g/day in infants or >4 g fat/day in older children (on fat-controlled diet). Sudan III stain on random stool is qualitative screening test.",
+    "id": 419
+  },
+  {
+    "chapter": 11,
+    "front": "What causes selective vitamin B12 malabsorption in children (Imerslund-Gr\u00e4sbeck syndrome)?",
+    "back": "Autosomal recessive defect in cubilin (CUBN) or amnionless (AMNIO) genes \u2014 these encode the cubam receptor complex on ileal enterocytes required for intrinsic factor-B12 complex absorption. Presents with megaloblastic anemia and proteinuria (tubular cubam receptor also affected). Treatment: lifelong IM or high-dose oral B12.",
+    "id": 420
+  },
+  {
+    "chapter": 12,
+    "front": "What is the lactulose hydrogen breath test and its limitations for SIBO?",
+    "back": "Oral lactulose given; early rise in breath H2 (>20 ppm above baseline within 90 min) suggests SIBO. Sensitivity ~62%, specificity ~83%. False-positives: rapid orocecal transit (early cecal fermentation mimics SIBO peak). False-negatives: non-H2-producing bacteria. Glucose breath test has better specificity but detects only proximal SIBO.",
+    "id": 421
+  },
+  {
+    "chapter": 12,
+    "front": "What are risk factors for SIBO in children?",
+    "back": "Anatomic abnormalities (strictures, blind loops, surgical anastomoses, diverticula), dysmotility (pseudo-obstruction, gastroparesis, scleroderma), immune deficiency (IgA deficiency, CVID), prolonged PPI use, short bowel syndrome, prematurity with immature motility, and ileocecal valve resection (loss of bacterial barrier).",
+    "id": 422
+  },
+  {
+    "chapter": 12,
+    "front": "What is the gut-brain axis?",
+    "back": "Bidirectional communication network between the enteric nervous system (ENS) and CNS via: vagal nerve afferents (80% ascending), spinal nociceptors, HPA axis (stress response), and gut-derived neuroendocrine signals (serotonin, GLP-1, PYY). Central sensitization through this axis underlies visceral hypersensitivity in functional GI disorders.",
+    "id": 423
+  },
+  {
+    "chapter": 12,
+    "front": "What is fecal microbiota transplantation (FMT) and its established pediatric indication?",
+    "back": "Transfer of processed donor stool to recipient gut to restore microbial diversity. Established pediatric indication: recurrent or refractory Clostridioides difficile infection (CDI) \u2014 efficacy 80\u201390%. Investigational in IBD (limited evidence), autism, obesity. FDA-approved FMT products (Rebyota, Vowst) primarily studied in adults.",
+    "id": 424
+  },
+  {
+    "chapter": 13,
+    "front": "What bowel length is associated with permanent PN dependence in SBS?",
+    "back": "<30 cm small bowel without ileocecal valve (ICV) typically associated with high PN dependence. With intact ICV: >40 cm may achieve enteral autonomy. These are guidelines \u2014 residual colon length, adaptive capacity, age at resection, and underlying disease all influence outcome.",
+    "id": 425
+  },
+  {
+    "chapter": 13,
+    "front": "What hormone drives intestinal adaptation and what drug targets it?",
+    "back": "GLP-2 (glucagon-like peptide-2) is the primary intestinal trophic hormone: stimulates enterocyte proliferation, villus lengthening, and crypt depth increase. Teduglutide (GLP-2 analogue, Gattex/Revestive) is FDA-approved for SBS-PN dependence in children \u22651 year \u2014 reduces PN volume requirements.",
+    "id": 426
+  },
+  {
+    "chapter": 13,
+    "front": "What is D-lactic acidosis in short bowel syndrome?",
+    "back": "Unabsorbed carbohydrates are fermented by colonic bacteria (Lactobacillus, Bifidobacterium) producing D-lactic acid, which accumulates as standard lactate assays detect only L-isomer. Presents with episodic encephalopathy (ataxia, slurred speech, confusion), high anion gap metabolic acidosis with normal L-lactate. Treat with carbohydrate restriction and antibiotics (metronidazole, neomycin).",
+    "id": 427
+  },
+  {
+    "chapter": 13,
+    "front": "What is the STEP procedure for short bowel syndrome?",
+    "back": "Serial Transverse Enteroplasty: surgical intestinal lengthening procedure for children with SBS and dilated bowel. GIA stapler fires are placed at 2\u20133 cm intervals creating a zigzag/tapered intestinal segment, increasing functional bowel length by 40\u201375% and improving peristaltic efficiency. Alternative to intestinal transplant in selected patients.",
+    "id": 428
+  },
+  {
+    "chapter": 13,
+    "front": "What is intestinal failure-associated liver disease (IFALD) and how is it prevented?",
+    "back": "Progressive cholestasis and liver injury in patients on long-term PN. Multifactorial: hepatotoxic components (phytosterols in soybean-oil lipid emulsions), lack of enteral stimulation, recurrent sepsis, intestinal bacterial overgrowth. Prevention/treatment: maximize enteral feeding, cycle PN, switch to fish-oil lipid emulsion (SMOF lipid or Omegaven), treat SIBO, manage sepsis aggressively.",
+    "id": 429
+  },
+  {
+    "chapter": 14,
+    "front": "What is the Paris classification of pediatric Crohn's disease?",
+    "back": "Age: A1a (<10 yr), A1b (10\u2013<17 yr). Location: L1 (distal ileum \u00b1 cecum), L2 (colon), L3 (ileocolonic), L4a (proximal to LoT), L4b (between LoT and distal ileum). Behavior: B1 (non-stricturing/non-penetrating), B2 (stricturing), B3 (penetrating), B2B3 (both). Growth: G0 (none), G1 (growth retardation defined as height velocity <-1 SD or height <-2 SD).",
+    "id": 430
+  },
+  {
+    "chapter": 14,
+    "front": "What is exclusive enteral nutrition (EEN) and its role in pediatric Crohn's?",
+    "back": "100% of caloric intake as formula-based EN (polymeric or elemental) for 6\u20138 weeks. Induces remission in ~80\u201385% of pediatric luminal Crohn's (comparable to steroids), while also improving nutritional status, bone density, and mucosal healing. Preferred over corticosteroids for induction in children per ESPGHAN/ECCO guidelines. Partial EN less effective.",
+    "id": 431
+  },
+  {
+    "chapter": 14,
+    "front": "What is the Pediatric Crohn's Disease Activity Index (PCDAI)?",
+    "back": "Validated disease activity score: abdominal pain (0\u20136), stools/day (0\u20136), general well-being (0\u20136), weight (0\u201310), height velocity (0\u201310), abdomen exam (0\u201310), perianal disease (0\u201310), ESR (0\u201310), hematocrit (0\u201310), albumin (0\u201310). Score: <10 = remission, 10\u201327.5 = mild, 28\u201347.5 = moderate, >47.5 = severe.",
+    "id": 432
+  },
+  {
+    "chapter": 14,
+    "front": "What extraintestinal manifestations of Crohn's disease parallel vs. run independent of bowel activity?",
+    "back": "Parallel disease activity: peripheral arthropathy (type 1: large joint, flares with IBD), erythema nodosum, episcleritis. Independent: axial arthropathy/ankylosing spondylitis, pyoderma gangrenosum, uveitis (requires eye exam regardless of IBD control), primary sclerosing cholangitis (more common in UC). Aphthous ulcers: variable relationship.",
+    "id": 433
+  },
+  {
+    "chapter": 15,
+    "front": "What is the PUCAI (Pediatric Ulcerative Colitis Activity Index)?",
+    "back": "Six-item clinical score: abdominal pain (0\u201310), rectal bleeding (0\u201330), stool consistency (0\u201310), stool frequency per day (0\u201315), nocturnal stools (0\u201310), activity level (0\u201310). Maximum 85. Remission <10, mild 10\u201334, moderate 35\u201364, severe \u226565. Validated for use in children \u22651 year. Assessed without endoscopy.",
+    "id": 434
+  },
+  {
+    "chapter": 15,
+    "front": "What defines acute severe ulcerative colitis (ASUC) and what is its management?",
+    "back": "Truelove-Witts criteria: \u22656 bloody stools/day + \u22651 of: fever >37.8\u00b0C, HR >90, Hgb <10.5 g/dL, ESR >30 mm/hr. PUCAI \u226565 = severe. Management: hospitalization, IV methylprednisolone (1 mg/kg/day, max 60 mg), PUCAI reassessment day 3. Non-responders: rescue with infliximab or cyclosporine. Colectomy if rescue fails.",
+    "id": 435
+  },
+  {
+    "chapter": 15,
+    "front": "What is the long-term colorectal cancer risk in pediatric-onset UC?",
+    "back": "Risk begins ~8\u201310 years after diagnosis (colitis duration is main driver). Cumulative risk: ~2% at 10 years, ~8% at 20 years, ~18% at 30 years. Risk factors: extensive colitis (pancolitis), PSC co-diagnosis, family history of CRC, severe histologic inflammation. Surveillance colonoscopy with chromoendoscopy every 1\u20132 years starting 8 years post-diagnosis.",
+    "id": 436
+  },
+  {
+    "chapter": 16,
+    "front": "What Rome IV criteria define functional constipation in children older than 4 years?",
+    "back": "\u22652 of the following for \u22651 month: \u22642 defecations/week, \u22651 episode fecal incontinence/week (if toilet-trained), retentive posturing or voluntary stool retention, painful/hard bowel movements, large fecal mass in rectum, large-diameter stools that can block the toilet. Not explained by another condition.",
+    "id": 437
+  },
+  {
+    "chapter": 16,
+    "front": "What is the recommended disimpaction regimen in children?",
+    "back": "Oral PEG 3350 (preferred over enemas): 1\u20131.5 g/kg/day for 3\u20136 days (max 100 g/day). Clean-out confirmed by passage of soft/liquid stool. Alternative rectal: glycerin suppositories (infants), bisacodyl or saline enemas (older children). Disimpaction must precede maintenance therapy \u2014 maintenance alone will fail in impacted patients.",
+    "id": 438
+  },
+  {
+    "chapter": 16,
+    "front": "What is the maintenance dose and duration of PEG 3350 for childhood constipation?",
+    "back": "Starting dose 0.4 g/kg/day (range 0.2\u20130.8 g/kg/day), titrated to 1\u20132 soft stools/day. Continue maintenance for minimum 2 months after achieving regular bowel habits, then wean slowly. Short courses (<4\u20136 weeks) have high relapse rates. Long-term use is safe \u2014 PEG is not absorbed.",
+    "id": 439
+  },
+  {
+    "chapter": 16,
+    "front": "What are red flags distinguishing organic from functional constipation in infants?",
+    "back": "Onset in first month of life, failure to pass meconium within 48h of birth, ribbon stools, explosive stool release after rectal exam (Hirschsprung), pilonidal dimple or sacral hair tuft, flat buttocks, spinal findings, absent anal wink, abdominal distension, bloody stools, failure to thrive. These warrant evaluation for Hirschsprung, anorectal malformation, or spinal pathology.",
+    "id": 440
+  },
+  {
+    "chapter": 16,
+    "front": "What is retentive encopresis and how does it develop?",
+    "back": "Retentive encopresis (80\u201395% of cases): involuntary passage of stool in toilet-trained children \u22654 years due to chronic constipation with fecal impaction and overflow incontinence (liquid stool seeps around impacted mass). Cycle: pain \u2192 withholding \u2192 larger harder stool \u2192 more pain. Treatment requires disimpaction + maintenance laxatives + behavioral therapy.",
+    "id": 441
+  },
+  {
+    "chapter": 17,
+    "front": "What Rome IV criteria define IBS in children?",
+    "back": "Recurrent abdominal pain \u22654 days/month for \u22652 months, associated with \u22652 of: (1) related to defecation, (2) change in stool frequency, (3) change in stool form/appearance. Not explained by another condition. Subtypes: IBS-C (constipation-predominant), IBS-D (diarrhea-predominant), IBS-M (mixed), IBS-U (unclassified).",
+    "id": 442
+  },
+  {
+    "chapter": 17,
+    "front": "What is the low-FODMAP diet and what is the evidence in pediatric IBS?",
+    "back": "Restriction of Fermentable Oligosaccharides, Disaccharides, Monosaccharides And Polyols (short-chain carbohydrates: fructose, lactose, fructans, galactans, polyols). Adult RCT evidence: 50\u201380% symptom improvement. Limited pediatric RCT data. Requires registered dietitian guidance; nutritional adequacy concerns in growing children with prolonged restriction; reintroduction phase essential.",
+    "id": 443
+  },
+  {
+    "chapter": 17,
+    "front": "What pharmacologic therapies have evidence for pediatric IBS?",
+    "back": "Peppermint oil (enteric-coated capsules): calcium channel antagonist on smooth muscle, reduces abdominal pain \u2014 best pediatric evidence. Antispasmodics (hyoscine/dicyclomine): limited pediatric data. Cyproheptadine: reduces abdominal pain in functional abdominal pain disorders. Amitriptyline: evidence in adolescents with IBS. Probiotics (LGG, VSL#3): modest, inconsistent benefit.",
+    "id": 444
+  },
+  {
+    "chapter": 17,
+    "front": "What is visceral hypersensitivity and how is it measured?",
+    "back": "Lowered pain threshold to physiologic intestinal stimuli (distension, pressure, chemical mediators) \u2014 the pathophysiologic basis of functional GI pain. Measured by barostat studies (graded rectal balloon distension \u2014 pain at lower volumes/pressures than controls). Central sensitization via altered dorsal horn pain processing amplifies peripheral signals. Treated with neuromodulators (amitriptyline, cyproheptadine, buspirone).",
+    "id": 445
+  },
+  {
+    "chapter": 18,
+    "front": "What is the Glasgow-Blatchford Score (GBS) and how is it used?",
+    "back": "Pre-endoscopy risk score for UGI bleeding: BUN, hemoglobin, systolic BP, pulse, melena, syncope, hepatic disease, and cardiac failure. Score 0 = very low risk (outpatient management safe). Score \u22656 = high risk, requires urgent endoscopy. Validates need for blood transfusion, endoscopic intervention, or surgery. Better than Rockford score for pre-endoscopy triage.",
+    "id": 446
+  },
+  {
+    "chapter": 18,
+    "front": "What is the role of IV PPI therapy before and after endoscopy for peptic ulcer bleeding?",
+    "back": "Pre-endoscopy: high-dose IV PPI (pantoprazole bolus) downstages ulcer stigmata and reduces need for endoscopic intervention. Post-endoscopy (high-risk stigmata \u2014 active bleeding, visible vessel, adherent clot): 72h continuous IV PPI infusion (8 mg/h after 80 mg bolus) reduces rebleeding by maintaining pH >6 (promotes platelet aggregation and clot stability).",
+    "id": 447
+  },
+  {
+    "chapter": 18,
+    "front": "What endoscopic techniques treat peptic ulcer bleeding?",
+    "back": "Three modalities: (1) Injection therapy: epinephrine 1:10,000 injected into/around ulcer (reduces blood flow, tamponades vessel \u2014 adjunct only, not monotherapy). (2) Thermal coagulation: bipolar electrocautery, heater probe, or argon plasma coagulation. (3) Mechanical: hemostatic clips (preferred for visible vessel). Combination therapy (injection + thermal or mechanical) superior to monotherapy.",
+    "id": 448
+  },
+  {
+    "chapter": 19,
+    "front": "What is the most common cause of painless rectal bleeding in a toddler?",
+    "back": "Meckel's diverticulum: ectopic gastric mucosa secretes acid causing adjacent ileal ulceration and painless rectal bleeding (often brick-red or maroon). Rule of 2s: 2% of the population, 2 feet proximal to the ileocecal valve, 2 inches long, most commonly presents in first 2 years of life.",
+    "id": 449
+  },
+  {
+    "chapter": 19,
+    "front": "What is the Meckel's scan and how does it work?",
+    "back": "Technetium-99m pertechnetate scintigraphy: Tc-99m pertechnetate is selectively taken up by gastric mucosa (normal and ectopic). Sensitivity 85%, specificity 95% in children. False-negatives if Meckel's lacks gastric mucosa. Cimetidine pretreatment (blocks secretion of Tc-99m from gastric mucosa, increasing uptake) improves sensitivity. Glucagon reduces peristalsis (improves image quality).",
+    "id": 450
+  },
+  {
+    "chapter": 19,
+    "front": "What are the causes of lower GI bleeding organized by pediatric age group?",
+    "back": "Newborns: NEC, Hirschsprung enterocolitis, swallowed maternal blood (Apt test distinguishes). Infants: milk protein-induced proctocolitis, intussusception, anal fissure. Toddlers: Meckel's diverticulum, juvenile polyps, intussusception. School-age: juvenile polyps, Meckel's, IBD. Adolescents: IBD, hemorrhoids, anal fissure, polyps, arteriovenous malformations.",
+    "id": 451
+  },
+  {
+    "chapter": 19,
+    "front": "What is intussusception and what is the diagnostic/therapeutic procedure?",
+    "back": "Telescoping of proximal bowel segment into adjacent distal segment (typically ileocolic). Peaks at 6\u201324 months. Classic triad (minority of cases): intermittent colicky pain, currant-jelly stool (blood + mucus), and RUQ sausage-shaped mass. Ultrasound: 'target sign' or 'doughnut sign'. Treatment: air (or hydrostatic) enema reduction under fluoroscopy \u2014 success rate 80\u201395%. Surgical if peritonitis or failed reduction.",
+    "id": 452
+  },
+  {
+    "chapter": 19,
+    "front": "What are juvenile polyps and their management?",
+    "back": "Most common pediatric colonic polyp \u2014 hamartomatous (not neoplastic). Present as painless bright red rectal bleeding (no pain). Solitary in 80%, typically in rectosigmoid. May auto-amputate. Treat: polypectomy to confirm histology and stop bleeding. Multiple juvenile polyps (>5) or family history suggests Juvenile Polyposis Syndrome (JPS) \u2014 autosomal dominant, SMAD4 or BMPR1A mutations, increased GI cancer risk.",
+    "id": 453
+  },
+  {
+    "chapter": 19,
+    "front": "What is Peutz-Jeghers syndrome?",
+    "back": "Autosomal dominant: STK11/LKB1 gene mutation. Hamartomatous polyps throughout GI tract (small bowel most common) + mucocutaneous melanocytic macules (lips, buccal mucosa, digits \u2014 present in infancy/childhood). Complications: intussusception (lead-point polyp), rectal bleeding, obstruction. Markedly increased lifetime cancer risk: GI, pancreatic, breast, ovarian, cervical, lung, testicular. Surveillance with enteroscopy and MRI enterography.",
+    "id": 454
+  },
+  {
+    "chapter": 20,
+    "front": "What are the components and interpretation of the Alvarado score for appendicitis?",
+    "back": "Migration of pain to RLQ (1), Anorexia (1), Nausea/vomiting (1), RLQ tenderness (2), Rebound tenderness (1), Temperature >37.3\u00b0C (1), Leukocytosis >10,000 (2). Max 10. Score <4: low risk (observe); 5\u20136: equivocal (imaging); 7\u201310: high risk (surgical consultation). Sensitivity 80\u201385% for appendicitis.",
+    "id": 455
+  },
+  {
+    "chapter": 20,
+    "front": "What is the Pediatric Appendicitis Score (PAS)?",
+    "back": "Eight-item pediatric-specific score: RLQ pain with cough/hopping/percussion (2), anorexia (1), fever >38\u00b0C (1), nausea/vomiting (1), RLQ tenderness (2), WBC >10,000 (1), PMN >7,500 (1). Max 10. Score \u22642: low risk (discharge/observe); 3\u20136: intermediate (ultrasound); \u22657: high risk (surgical consultation \u00b1 CT if ultrasound non-diagnostic).",
+    "id": 456
+  },
+  {
+    "chapter": 20,
+    "front": "What is the preferred imaging sequence for suspected appendicitis in children?",
+    "back": "Ultrasound first (no radiation; sensitivity 78\u201394%, specificity 89\u201398% in experienced hands). If non-diagnostic and high suspicion: MRI (no radiation, sensitivity/specificity >94% \u2014 preferred over CT in children). CT abdomen/pelvis with IV contrast: highest accuracy (>96%) but significant radiation \u2014 reserved for emergencies or when US/MRI unavailable.",
+    "id": 457
+  },
+  {
+    "chapter": 20,
+    "front": "What are the signs of peritonitis on examination?",
+    "back": "Involuntary guarding (board-like rigidity), rebound tenderness (Blumberg's sign \u2014 pain worse on quick release of deep pressure), tenderness with percussion, diminished or absent bowel sounds. Rovsing's sign: LLQ pressure causes RLQ pain (suggests appendicitis). Psoas sign: pain with hip extension (retrocecal appendix). Obturator sign: pain with internal hip rotation (pelvic appendix).",
+    "id": 458
+  },
+  {
+    "chapter": 20,
+    "front": "What is midgut volvulus and its emergency management?",
+    "back": "Rotation of the entire midgut around the SMA axis due to malrotation (narrow mesenteric base). Bilious vomiting in a neonate = midgut volvulus until proven otherwise. Upper GI series: 'corkscrew' duodenum or failure to cross the midline. Management: immediate surgical exploration, Ladd's procedure (divide peritoneal bands, broaden mesenteric base, appendectomy, non-rotation positioning).",
+    "id": 459
+  },
+  {
+    "chapter": 20,
+    "front": "What is duodenal hematoma in children and how is it managed?",
+    "back": "Intramural hematoma from blunt abdominal trauma (handlebars, lap-belt injuries \u2014 child abuse in infants). Presents 24\u201348h post-injury with bilious vomiting, epigastric pain. UGI series: 'coiled spring' or 'stack of coins' appearance from mucosal fold compression. Management: NPO, NG decompression, PN support \u2014 90% resolve spontaneously in 2\u20133 weeks. Surgery only for complete obstruction not resolving.",
+    "id": 460
+  },
+  {
+    "chapter": 20,
+    "front": "What is the initial management of suspected bowel obstruction in a child?",
+    "back": "ABCs/resuscitation: IV access, fluid bolus (20 mL/kg NS or LR). NPO, NG tube decompression. Plain abdominal X-ray: air-fluid levels, dilated loops, absent rectal gas (complete), free air (perforation). If intussusception suspected: ultrasound \u2192 air enema. If malrotation: upper GI series. Urgent surgical consultation for complete or strangulated obstruction. Electrolyte correction before operative intervention.",
+    "id": 461
+  },
+  {
+    "chapter": 21,
+    "front": "What is the Kasai portoenterostomy and what determines its outcome?",
+    "back": "Roux-en-Y hepatic portoenterostomy: surgical anastomosis of fibrous biliary remnant to jejunal limb to establish bile drainage. Outcome is time-dependent: ideally before 45 days of life (before 60 days maximum). 60\u201370% achieve initial bile drainage; 30\u201340% have long-term native liver survival to adulthood. Late Kasai (>90 days) rarely achieves adequate drainage; early liver transplant evaluation recommended.",
+    "id": 462
+  },
+  {
+    "chapter": 21,
+    "front": "What infectious agents are assessed in the TORCH evaluation for neonatal cholestasis?",
+    "back": "Toxoplasma (IgM/IgG), Other (syphilis RPR/VDRL, parvovirus B19, HBV surface antigen), Rubella IgM, CMV (urine/serum PCR and IgM), HSV (PCR in blood and CSF). CMV is the most common infectious cause of neonatal cholestasis. CMV infection: treat with IV ganciclovir then oral valganciclovir for 6 months to preserve hearing and neurodevelopment.",
+    "id": 463
+  },
+  {
+    "chapter": 21,
+    "front": "What is alpha-1 antitrypsin deficiency and how does it cause liver disease?",
+    "back": "Autosomal codominant: Pi*ZZ genotype (most severe). Misfolded Z-protein cannot be secreted from hepatocyte ER \u2014 polymerizes and accumulates intracellularly causing ER stress and hepatocellular injury. PAS-diastase-resistant globules in periportal hepatocytes on biopsy. Presents as neonatal cholestasis, childhood hepatitis, or cirrhosis in adulthood. Diagnosis: Pi phenotype by isoelectric focusing. Liver transplant is curative.",
+    "id": 464
+  },
+  {
+    "chapter": 22,
+    "front": "How do you interpret hepatitis B serology (acute vs. chronic vs. resolved vs. immune)?",
+    "back": "Acute: HBsAg+, IgM anti-HBc+. Chronic: HBsAg+ >6 months. Resolved infection: HBsAg\u2212, total anti-HBc+, anti-HBs+. Vaccine immunity: anti-HBs+ only (no anti-HBc). Window period: HBsAg\u2212, anti-HBs\u2212, IgM anti-HBc+. HBeAg+ = high viral replication; anti-HBe = seroconversion (lower replication). HBV DNA quantification determines replication level.",
+    "id": 465
+  },
+  {
+    "chapter": 22,
+    "front": "What determines the risk of chronic HBV infection after acute exposure by age?",
+    "back": "Neonates (perinatal): 90% risk of chronicity. Age 1\u20135 years: 25\u201330% risk. Older children and adults: <5% risk. Inverse relationship between age and immune tolerance. Basis for universal neonatal HBV vaccination + HBIG within 12h of birth for HBsAg-positive mothers \u2014 prevents 90\u201395% of perinatal transmission.",
+    "id": 466
+  },
+  {
+    "chapter": 22,
+    "front": "What are the indications to treat chronic hepatitis B in children?",
+    "back": "AASLD/EASL: treat if persistent ALT elevation (>2\u00d7 ULN for \u22656 months) + HBV DNA >2,000 IU/mL + moderate-severe inflammation or fibrosis on biopsy. Immune-tolerant phase (normal ALT, very high DNA, minimal histology): observe without treatment \u2014 low response rates. Approved agents for children \u22652 years: tenofovir alafenamide (TAF), tenofovir disoproxil fumarate (TDF), or entecavir.",
+    "id": 467
+  },
+  {
+    "chapter": 22,
+    "front": "What are the FDA-approved hepatitis C DAA regimens available in children?",
+    "back": "Sofosbuvir/ledipasvir (age \u22653 years, weight \u226517 kg): genotypes 1, 4, 5, 6. Sofosbuvir/velpatasvir (age \u22653 years): pan-genotypic. Glecaprevir/pibrentasvir (age \u22653 years): pan-genotypic, 8 weeks. SVR12 (sustained virologic response at 12 weeks) rates >97% in children. HCV RNA undetectable at SVR12 = cure. Treatment duration 8\u201312 weeks depending on genotype, fibrosis stage, and prior treatment.",
+    "id": 468
+  },
+  {
+    "chapter": 22,
+    "front": "What is hepatitis E virus (HEV) and when is it particularly dangerous?",
+    "back": "Fecal-oral transmission (contaminated water, undercooked pork/wild game). Self-limited hepatitis in most. Genotype 1/2 (epidemic, Asia/Africa): pregnant women have 20\u201325% mortality from fulminant hepatic failure. Genotype 3/4 (zoonotic): causes chronic hepatitis in immunocompromised patients (transplant recipients \u2014 treat with ribavirin \u00b1 reduction of immunosuppression). No approved antiviral for acute HEV.",
+    "id": 469
+  },
+  {
+    "chapter": 23,
+    "front": "What are the two types of autoimmune hepatitis (AIH) in children?",
+    "back": "Type 1: ANA and/or SMA (anti-smooth muscle antibody) positive. Most common type; any age; responds well to immunosuppression. Type 2: anti-LKM1 (liver-kidney microsomal type 1) and/or anti-LC1 (liver cytosol type 1) positive. More common in younger children (<14 years); more aggressive; associated with autoimmune polyendocrinopathy candidiasis ectodermal dystrophy (APECED/APS-1).",
+    "id": 470
+  },
+  {
+    "chapter": 23,
+    "front": "What is the first-line treatment for autoimmune hepatitis and what do you monitor?",
+    "back": "Induction: prednisone 1\u20132 mg/kg/day (max 60 mg) with gradual taper over 6\u20138 weeks. Add azathioprine 1\u20132 mg/kg/day as steroid-sparing maintenance once ALT begins to improve. Check TPMT activity before azathioprine \u2014 low TPMT = high 6-TGN metabolite accumulation \u2192 bone marrow suppression. Monitor: ALT, IgG (IgG normalization predicts histologic remission), CBC, LFTs.",
+    "id": 471
+  },
+  {
+    "chapter": 23,
+    "front": "What is primary sclerosing cholangitis (PSC) in children?",
+    "back": "Progressive fibro-inflammatory bile duct disease affecting intra- and/or extrahepatic ducts. Strongly associated with IBD (~75%, predominantly UC). MRCP: 'beads-on-a-string' (multifocal strictures alternating with normal or dilated segments). No proven effective medical therapy. Liver transplant for decompensated cirrhosis or recurrent cholangitis. Small-duct PSC: normal MRCP, diagnosed by biopsy (periductal fibrosis).",
+    "id": 472
+  },
+  {
+    "chapter": 23,
+    "front": "What is autoimmune sclerosing cholangitis (ASC) in children?",
+    "back": "Overlap syndrome: features of AIH (elevated transaminases, positive autoantibodies, elevated IgG) + PSC (bile duct changes on MRCP) \u00b1 IBD. More common in children <14 years than in adults. Partially responds to immunosuppression (like AIH component) but biliary disease often progresses (like PSC). Distinct from adult AIH-PSC overlap. Requires both MRCP and colonoscopy for full characterization.",
+    "id": 473
+  },
+  {
+    "chapter": 24,
+    "front": "What is MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease) and how does it differ in children vs. adults histologically?",
+    "back": "Formerly NAFLD. Hepatic steatosis + \u22651 cardiometabolic risk factor (overweight/obesity, T2DM, hypertension, dyslipidemia, hypertriglyceridemia). Pediatric MASLD histology: predominantly zone 1 (periportal) steatosis and portal inflammation, with less hepatocyte ballooning than adults (zone 3 pattern). Most common chronic liver disease in children in developed countries.",
+    "id": 474
+  },
+  {
+    "chapter": 24,
+    "front": "What is the NAS score and when is liver biopsy indicated in pediatric MASLD?",
+    "back": "NAFLD Activity Score: steatosis (0\u20133) + lobular inflammation (0\u20133) + hepatocyte ballooning (0\u20132). NAS \u22655 = MASH (metabolic dysfunction-associated steatohepatitis). Biopsy indicated: diagnosis uncertain (atypical presentation), staging fibrosis before treatment, elevated ALT not explained by imaging, or clinical trial enrollment. Non-invasive fibrosis markers (FIB-4, ELF score, elastography) can defer biopsy in low-risk patients.",
+    "id": 475
+  },
+  {
+    "chapter": 24,
+    "front": "What are the diagnostic criteria for Wilson disease?",
+    "back": "Autosomal recessive: ATP7B mutation \u2192 copper accumulation in liver, brain, cornea, kidneys. Leipzig score \u22654 = definitive diagnosis: Kayser-Fleischer rings (slit-lamp, not always present in children) (2 pts), neuropsychiatric symptoms (2 pts), Coombs-negative hemolytic anemia (1 pt), low ceruloplasmin <20 mg/dL (1 pt), 24h urine copper >100 \u03bcg/day or >5\u00d7 ULN after d-penicillamine challenge (2 pts), liver copper >250 \u03bcg/g dry weight (2 pts).",
+    "id": 476
+  },
+  {
+    "chapter": 24,
+    "front": "What are the treatment options for Wilson disease?",
+    "back": "Chelation (mobilizes copper): D-penicillamine (first-line historically; side effects: proteinuria, thrombocytopenia, lupus-like syndrome) or trientine (preferred \u2014 fewer side effects). Zinc (blocks intestinal copper absorption): for maintenance, presymptomatic patients, or pregnancy. Liver transplant: corrects the metabolic defect \u2014 curative for acute liver failure or decompensated cirrhosis. All treatments require lifelong monitoring of copper indices.",
+    "id": 477
+  },
+  {
+    "chapter": 24,
+    "front": "How do you distinguish alpha-1 antitrypsin deficiency from other causes of neonatal cholestasis?",
+    "back": "Screen: serum A1AT level (low in Pi*ZZ, but A1AT is an acute-phase reactant \u2014 may be normal during inflammation). Confirm: Pi phenotype by isoelectric focusing (Pi*ZZ = severe; Pi*SZ = intermediate; Pi*MZ = carrier/mild). Liver biopsy: PAS-diastase-resistant globules in periportal hepatocytes (pathognomonic). Genetic testing (SERPINA1 gene) for atypical Pi phenotypes.",
+    "id": 478
+  },
+  {
+    "chapter": 24,
+    "front": "What is the PNPLA3 I148M variant and its significance in pediatric liver disease?",
+    "back": "PNPLA3 rs738409 (I148M) is the strongest common genetic modifier of MASLD risk and severity: impairs retinylester hydrolase function \u2192 hepatic lipid accumulation and increased fibrogenic signaling. Hispanic children have higher allele frequency, explaining in part the higher MASLD prevalence in this population. Not a Mendelian disease variant \u2014 acts as a modifier of environmental and metabolic risk.",
+    "id": 479
+  },
+  {
+    "chapter": 25,
+    "front": "What is the HVPG and what are its clinical thresholds?",
+    "back": "Hepatic Venous Pressure Gradient = wedged hepatic venous pressure (WHVP) \u2212 free hepatic venous pressure (FHVP). Normal: <5 mmHg. Portal hypertension: \u22656 mmHg. Clinically significant (ascites/variceal risk): \u226510 mmHg. Variceal bleeding threshold: \u226512 mmHg. High-risk/treatment failure: \u226516\u201320 mmHg. Measured via transjugular hepatic venous catheterization \u2014 gold standard for sinusoidal portal hypertension.",
+    "id": 480
+  },
+  {
+    "chapter": 25,
+    "front": "What is the primary prophylaxis for esophageal varices in children?",
+    "back": "Non-selective beta-blockers (propranolol 1\u20133 mg/kg/day or nadolol): reduce portal pressure by decreasing cardiac output + splanchnic vasoconstriction. Endoscopic variceal ligation (EVL): first-line in children with large varices or red wale marks unable to tolerate beta-blockers. Target: HVPG reduction \u226520% from baseline or <12 mmHg. Initiate prophylaxis when varices \u2265grade 2 or red wale marks present.",
+    "id": 481
+  },
+  {
+    "chapter": 25,
+    "front": "What is the acute management of variceal hemorrhage in children?",
+    "back": "Airway protection (intubate if massive bleed/encephalopathy). Cautious blood transfusion (target Hgb 7\u20138 g/dL \u2014 over-transfusion increases portal pressure). Vasoactive agent: octreotide (bolus 1\u20132 mcg/kg IV then 1\u20132 mcg/kg/h infusion \u00d72\u20135 days). Antibiotic prophylaxis: ceftriaxone IV (reduces bacterial infection and rebleeding). Urgent endoscopy within 12h: EVL preferred; sclerotherapy if EVL not feasible.",
+    "id": 482
+  },
+  {
+    "chapter": 25,
+    "front": "What is TIPS and its indications in children?",
+    "back": "Transjugular Intrahepatic Portosystemic Shunt: radiologically placed stent between portal and hepatic veins through hepatic parenchyma, reducing portal pressure. Pediatric indications: refractory variceal bleeding (failed endoscopic/pharmacologic therapy), refractory ascites, bridge to transplant. Complications: hepatic encephalopathy (ammonia bypass), shunt stenosis/occlusion. PTFE-covered stents preferred for durability.",
+    "id": 483
+  },
+  {
+    "chapter": 25,
+    "front": "What is spontaneous bacterial peritonitis (SBP) and how is it diagnosed?",
+    "back": "Bacterial infection of ascitic fluid without a surgically correctable intra-abdominal source. Diagnosis: ascitic fluid PMN \u2265250 cells/mm\u00b3 (regardless of culture result). Culture-negative neutrocytic ascites: PMN \u2265250 but culture-negative \u2014 treat as SBP. Most common organisms: E. coli, Klebsiella, Streptococcus pneumoniae. Treatment: IV cefotaxime \u00d75 days; secondary prophylaxis: norfloxacin or TMP-SMX indefinitely.",
+    "id": 484
+  },
+  {
+    "chapter": 25,
+    "front": "What is extrahepatic portal vein obstruction (EHPVO) in children?",
+    "back": "Portal vein thrombosis with cavernous transformation (portal cavernoma \u2014 collateral vessels). Most common cause of portal hypertension without liver disease in children. Causes: neonatal umbilical vein catheterization, omphalitis, dehydration, thrombophilia (protein C/S deficiency, factor V Leiden), idiopathic. Normal liver synthetic function preserved. Meso-Rex bypass (Rex shunt) restores physiologic portal flow to the left portal vein \u2014 preferred surgical option.",
+    "id": 485
+  },
+  {
+    "chapter": 26,
+    "front": "What are the INSPPIRE criteria for acute recurrent pancreatitis (ARP)?",
+    "back": "\u22652 well-documented episodes of acute pancreatitis (AP) with complete resolution of pain between episodes. Each AP episode requires \u22652 of: (1) abdominal pain consistent with AP, (2) serum amylase or lipase \u22653\u00d7 ULN, (3) imaging consistent with AP. Progression to structural or functional changes = chronic pancreatitis.",
+    "id": 486
+  },
+  {
+    "chapter": 26,
+    "front": "What fluid resuscitation approach is recommended for pediatric acute pancreatitis?",
+    "back": "Goal-directed isotonic crystalloid resuscitation. Lactated Ringer's preferred over normal saline \u2014 LR reduces acidosis and may attenuate systemic inflammation (lower chloride load, metabolic benefits). Rate: 1.5\u20132\u00d7 maintenance during first 24\u201348h (avoid aggressive bolusing >10 mL/kg \u2014 associated with worse outcomes including ARDS and abdominal compartment syndrome). Early enteral nutrition (within 24\u201348h) is preferred over NPO.",
+    "id": 487
+  },
+  {
+    "chapter": 26,
+    "front": "What genetic mutations are associated with chronic pancreatitis in children?",
+    "back": "PRSS1 (cationic trypsinogen): gain-of-function \u2192 hereditary pancreatitis (autosomal dominant, early-onset, high lifetime cancer risk). SPINK1 (serine protease inhibitor Kazal type 1): N34S variant \u2014 modifier, not sufficient alone. CFTR: compound heterozygous mild variants \u2192 idiopathic chronic pancreatitis. CTRC (chymotrypsin C): loss-of-function \u2014 impairs trypsin degradation, increases acinar cell injury.",
+    "id": 488
+  },
+  {
+    "chapter": 27,
+    "front": "What is the fecal elastase-1 (FE-1) test and what are its limitations?",
+    "back": "FE-1 measured by ELISA in random stool sample. FE-1 <200 \u03bcg/g = exocrine pancreatic insufficiency (EPI); <100 \u03bcg/g = severe EPI. Advantages: not affected by concurrent PERT (unlike fecal chymotrypsin). Limitations: false-low results with watery or dilute stool (any diarrheal state \u2014 not specific to EPI). Cannot distinguish between types of EPI.",
+    "id": 489
+  },
+  {
+    "chapter": 27,
+    "front": "What are the major GI manifestations of cystic fibrosis?",
+    "back": "Meconium ileus (10\u201320% of CF neonates; ~99% have CF). Exocrine pancreatic insufficiency (85\u201390%: steatorrhea, FTT, fat-soluble vitamin deficiency A/D/E/K). DIOS (distal intestinal obstruction syndrome): inspissated mucofecal material in terminal ileum/cecum in older patients. CF-related diabetes (CFRD): by 30 years ~50%. Biliary cirrhosis (5\u201310%). Rectal prolapse in young children with undiagnosed CF.",
+    "id": 490
+  },
+  {
+    "chapter": 28,
+    "front": "What are the WHO criteria for severe acute malnutrition (SAM) in children under 5?",
+    "back": "Any one of: weight-for-height/length Z-score <\u22123 SD (WHO standards), MUAC <115 mm (children 6\u201359 months), bilateral pitting edema (kwashiorkor), or clinical marasmus. SAM carries 9\u00d7 mortality risk vs. well-nourished children. Requires therapeutic feeding program (F-75 then F-100 or RUTF).",
+    "id": 491
+  },
+  {
+    "chapter": 28,
+    "front": "What is the 10-step WHO management approach for severe acute malnutrition?",
+    "back": "Treat hypoglycemia \u2192 hypothermia \u2192 dehydration (ORS, not IV unless shock) \u2192 electrolyte imbalance (K+, Mg2+, Zn2+) \u2192 infections (broad-spectrum antibiotics) \u2192 micronutrient deficiencies (vitamins A, D, K, folate, zinc \u2014 no iron in Phase 1) \u2192 cautious feeding (F-75, 100 kcal/kg/day) \u2192 catch-up growth (F-100 or RUTF, 150\u2013220 kcal/kg/day) \u2192 sensory stimulation \u2192 discharge planning.",
+    "id": 492
+  },
+  {
+    "chapter": 28,
+    "front": "What is refeeding syndrome and which electrolytes are critical to monitor?",
+    "back": "Metabolic complication of rapid refeeding after prolonged starvation. Carbohydrate reintroduction \u2192 insulin surge \u2192 cellular uptake of phosphate, potassium, and magnesium \u2192 severe hypophosphatemia (most dangerous), hypokalemia, hypomagnesemia \u2192 cardiac arrhythmia, respiratory failure, rhabdomyolysis, seizures. Prevention: start feeds slowly, correct electrolytes before refeeding, monitor daily electrolytes during first week.",
+    "id": 493
+  },
+  {
+    "chapter": 29,
+    "front": "What BMI thresholds define overweight and obesity in children ages 2\u201319?",
+    "back": "Overweight: BMI \u226585th percentile and <95th percentile for age and sex. Obesity: BMI \u226595th percentile. Severe obesity: BMI \u2265120% of the 95th percentile OR BMI \u226535 kg/m\u00b2 (whichever is lower). Class 3 obesity: BMI \u2265140% of the 95th percentile. CDC 2000 growth charts used in the US; WHO charts preferred for age <2 years.",
+    "id": 494
+  },
+  {
+    "chapter": 29,
+    "front": "What medications are FDA-approved for pediatric obesity treatment?",
+    "back": "Orlistat (lipase inhibitor): FDA-approved \u226512 years; reduces fat absorption by ~30%; GI side effects (oily stools, fecal urgency) limit adherence. Phentermine-topiramate (Qsymia): approved \u226512 years. Semaglutide (GLP-1 agonist, Wegovy): FDA-approved \u226512 years for obesity \u2014 16% mean weight reduction in trials. All medications used as adjunct to intensive lifestyle intervention.",
+    "id": 495
+  },
+  {
+    "chapter": 30,
+    "front": "What are the key differences between polymeric, semi-elemental, and elemental enteral formulas?",
+    "back": "Polymeric (standard): intact protein, complex carbohydrates, long-chain triglycerides \u2014 requires normal digestive function. Semi-elemental (peptide-based): hydrolyzed protein (di-tripeptides), MCT-enriched \u2014 for partial digestive dysfunction, pancreatic insufficiency, SBS. Elemental: free amino acids, simple sugars, MCT \u2014 for severe malabsorption, EoE, allergy \u2014 most expensive, poor palatability.",
+    "id": 496
+  },
+  {
+    "chapter": 30,
+    "front": "What are the indications for continuous vs. bolus enteral tube feeding?",
+    "back": "Bolus (gravity or syringe, 4\u20136 times/day): preferred for gastric feeding in patients with normal gastric emptying \u2014 physiologic, maintains insulin cycling, easier to manage. Continuous (pump-driven): for gastroparesis, dumping syndrome, post-pyloric feeding (NG-jejunal or NJ tube), young infants with low gastric capacity, and patients with feeding intolerance to bolus volumes. Nocturnal cycling: combines daytime oral intake with overnight pump feeds.",
+    "id": 497
+  },
+  {
+    "chapter": 30,
+    "front": "What are the complications of nasogastric tube feeding?",
+    "back": "Tube-related: displacement (verify position before each feed), nasal/esophageal irritation, sinusitis, otitis media. Feeding-related: aspiration (elevate HOB 30\u00b0, use continuous feeds if high risk), diarrhea (high osmolarity formula, too-rapid infusion), constipation, tube occlusion (flush with water before/after). Metabolic: hyper/hypoglycemia, electrolyte imbalance. Refeeding syndrome in malnourished patients.",
+    "id": 498
+  },
+  {
+    "chapter": 31,
+    "front": "What are the components of a pediatric PN prescription?",
+    "back": "Macronutrients: dextrose (provides ~3.4 kcal/g \u2014 start at 5\u20138 mg/kg/min GIR, advance by 2\u20133 mg/kg/min), amino acids (pediatric formulations, 1.5\u20133 g/kg/day), lipid emulsion (1\u20133 g/kg/day, max 3.5 g/kg/day). Micronutrients: electrolytes (Na, K, Ca, Mg, Phos, Cl, acetate), trace elements (Zn, Cu, Mn, Se, Cr), vitamins (MVI-Pediatric). Administered via central venous access for >10\u201312.5% dextrose.",
+    "id": 499
+  },
+  {
+    "chapter": 31,
+    "front": "What is the maximum glucose infusion rate (GIR) in PN and why does it matter?",
+    "back": "Max GIR in stable children: 12\u201314 mg/kg/min (neonates: 10\u201311 mg/kg/min). Exceeding maximum GIR \u2192 hyperglycemia (osmotic diuresis, dehydration, increased infection risk) + lipogenesis (fatty liver, increased CO2 production \u2192 ventilator-dependent patients: increased minute ventilation requirements). Monitor blood glucose every 4\u20136h when starting/advancing PN; treat hyperglycemia with insulin if glucose >180 mg/dL.",
+    "id": 500
   }
 ]
